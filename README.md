@@ -92,4 +92,4 @@ Designing next-generation semiconductor devices and specialized processors for s
 
 ### Organizations
 
-* AU United Photography Club
+* Head of AU United Photography Club
